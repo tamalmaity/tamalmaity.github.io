@@ -1754,15 +1754,15 @@ input, select, textarea {
 			width: 100%;
 		}
 
-		.image.avatar54 {
-			width: 54px;
-			height: 54px;
+		.image.avatar85 {
+			width: 85px;
+			height: 85px;
 			background: #f00;
 		}
 
-			.image.avatar54 img {
-				width: 54px;
-				height: 54px;
+			.image.avatar85 img {
+				width: 85px;
+				height: 85px;
 			}
 
 		.image.fit {
@@ -2096,7 +2096,7 @@ input, select, textarea {
 
 	#logo {
 		position: relative;
-		margin: 1.75em 1.5em 1.5em 1.5em;
+		margin: 0.75em 0.5em 0.5em 0.5em;
 		min-height: 48px;
 		cursor: default;
 	}
@@ -2112,6 +2112,7 @@ input, select, textarea {
 		#logo p {
 			position: relative;
 			display: block;
+			font-weight: 800;
 			font-size: 0.6em;
 			color: rgba(255, 255, 255, 0.5);
 			line-height: 1.25em;
