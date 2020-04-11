@@ -1,2 +1,2 @@
 # tamalmaity.github.io
-Static webpage
+Personal webpage
